@@ -1,0 +1,13 @@
+{
+    "Cabinent": {
+        "contentType": "string",
+        "location": "string",
+        "spaceAvailable": "boolean"
+    },
+    "Container": {
+        "contentType": "string",
+        "contentPercentRemaining": "int",
+        "arrivalDate": "date",
+        "modifiedDate": "date" 
+    }
+}
