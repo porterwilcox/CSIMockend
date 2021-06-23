@@ -1,5 +1,5 @@
 {
-    "Cabinent": {
+    "Cabinet": {
         "contentType": "string",
         "location": "string",
         "spaceAvailable": "boolean"
